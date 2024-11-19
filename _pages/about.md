@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a research assistant in the [Natural Language Processing Lab (THUNLP)](https://nlp.csai.tsinghua.edu.cn/) at Tsinghua University, advised by [Professor Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) during my gap year. My research interests focus on long-text modeling for large language models (LLMs) and their applications in recommender systems. Prior to this, I earned my bachelor's degree from China University of Geosciences, Beijing.
+Hi! I am currently a research assistant in the [Natural Language Processing Lab (THUNLP)](https://nlp.csai.tsinghua.edu.cn/) at Tsinghua University, advised by [Professor Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) during my gap year. My research interests focus on long-context modeling for large language models (LLMs) and their applications in recommender systems. Prior to this, I earned my bachelor's degree from China University of Geosciences, Beijing.
 
 News
 ======
